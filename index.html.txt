@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+
+
+    <title>First Webpage</title>
+
+
+
+   </head>
+
+
+
+   <body>
+
+      <h1>Personal Resume<h1>
+
+
+      <img src="img/Tahsin Photo PP" alt="pasport photo">
+
+      <p> <b>Name:</b> Sharif Rafia Tahsin <br><b>Father's Name:</b> A.S.M.Khairuzzaman <br><b>Mother's Name:</b> Sayrda Tanjida Rahman <br><b>Address:</b> House:63 Dhanmndi 9/A, Dhaka <br><b>Date Of Birth:</b> 28<sup>th</sup> August 1998 <br><b> Nationality:</b> Bangladeshi <br><b>Religion:</b> Islam<br><b>Acdemic Qualificatin</b> <br><b>O'levels (Maple Leaf International School)</b> <br><b>A levels</b> (Maple Leaf International School)</p>
+
+
+
+   </body>
+
+
+
+
+</html>
